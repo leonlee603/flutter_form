@@ -1,16 +1,11 @@
 # flutter_form
 
-A new Flutter project.
+An example of a flutter form for sign in or sign up a user.
+
+This form included some basic validation, loading indicator, focus node, etc.
+
+The logic of signing in and signing up are not included. It depends on what authentication tool you are using.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+There is no any other dependencies added to this project. You can just download the project and run on a simulator on your local environment.
